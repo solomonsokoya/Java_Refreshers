@@ -4,7 +4,7 @@
 
 public class Variable_exercises{
   public static void main(String[] args) {
-    int myAge = 23_;
+    int myAge;
     String myName = "Solomon Sokoya";
     boolean areYouReal = true;
 
